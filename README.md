@@ -16,7 +16,7 @@ Build >> Project
 
 ## Challenges 
 
-1. [Glassmorphism](SwiftUI-Challenges/tree/master/Glassmorphism)
+1. [Glassmorphism](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Glassmorphism)
 2. [Weather MVVM App](SwiftUI-Challenges/tree/master/Weather)
 
 <br><br>
