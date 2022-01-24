@@ -18,6 +18,8 @@ Build >> Project
 
 1. [Glassmorphism](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Glassmorphism)
 2. [Weather MVVM App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Weather)
+3. [Slider App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Slider%20App)
+
 
 <br><br>
 
@@ -25,6 +27,7 @@ Build >> Project
 <div>
 <img src="https://github.com/abdulbasitha/SwiftUI-Challenges/blob/master/ASSESTS/1.png" width="30%" height="30%" >
 <img src="https://github.com/abdulbasitha/SwiftUI-Challenges/blob/master/ASSESTS/2.png" width="30%" height="30%" >
+<img src="https://github.com/abdulbasitha/SwiftUI-Challenges/blob/master/ASSESTS/3.png" width="30%" height="30%" >
 </div>
 
 
