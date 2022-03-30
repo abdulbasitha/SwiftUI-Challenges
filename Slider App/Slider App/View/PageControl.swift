@@ -17,6 +17,8 @@ struct PageControl: UIViewRepresentable {
         control.backgroundStyle = .minimal
         control.numberOfPages = maxPages
         control.currentPage = currentPage
+        
+    
     
         
         return control

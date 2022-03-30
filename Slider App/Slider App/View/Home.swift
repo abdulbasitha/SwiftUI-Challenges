@@ -84,8 +84,10 @@ struct Home: View {
     }
     func getIndex()-> Int {
         let index = trips.firstIndex { (trip) -> Bool in
+           
             return selectedTab.id == trip.id
         } ?? 0
+        print("DEBUG\(index)")
         return index
     }
 }
