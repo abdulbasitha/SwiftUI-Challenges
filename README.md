@@ -19,7 +19,7 @@ Build >> Project
 1. [Glassmorphism](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Glassmorphism)
 2. [Weather MVVM App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Weather)
 3. [Slider App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/Slider%20App)
-4. 3. [Modal App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/SwiftUI_Model_App)
+4. [Modal App](https://github.com/abdulbasitha/SwiftUI-Challenges/tree/master/SwiftUI_Model_App)
 
 
 <br><br>
